@@ -2,7 +2,7 @@ var usuario = document.querySelector("#nome");
 var senha = document.querySelector("#senha");
 const button = document.querySelector("#confirmar");
 
-const senhareal = "joownlook4002frango";
+const senhareal = "123";
 const usuarioreal = "Joao";
 
 button.addEventListener("click", function() {
